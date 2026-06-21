@@ -523,8 +523,9 @@ Inspirado por:
 ---
 
 **Desenvolvido com ❤️ para código melhor**
+---
 Desenvolvedora: Carla Rodriguês de Moraes
-Contato: carlabio.biomol2gmail.com
+Contato: carlabio.biomol@gmail.com
 linkedin:https://www.linkedin.com/in/carla-bioinfo/
 
 </div>
