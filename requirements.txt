@@ -1,0 +1,16 @@
+# CodeVault Production Dependencies
+# ===================================
+
+# Core Framework
+typer==0.9.0              # CLI framework
+pydantic==2.4.2           # Data validation
+rich==13.5.2              # Terminal formatting
+
+# Security & Code Quality (akan expanded in FASE 2)
+# bandit              # Security vulnerability scanner
+# semgrep             # Static analysis tool
+# pip-audit           # Dependency vulnerability checker
+
+# Future: Reporting & Integration
+# pandas              # Data analysis
+# jinja2              # Template engine
