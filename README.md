@@ -441,7 +441,7 @@ git push origin feature/AmazingFeature
 
 ### Vulnerabilidade de Segurança?
 ⚠️ **NÃO** abra issue pública.  
-Envie para: **security@codevault.dev**
+Envie para: **carlabio.biomol@gmail.com**
 
 ---
 
